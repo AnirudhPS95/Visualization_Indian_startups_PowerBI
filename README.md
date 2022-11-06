@@ -1,3 +1,3 @@
 # Visualization_Project_PowerBI
-Visually gaining insights from the funding done in the Indian Startups from year 2015-2020
-The visulization is only for the disclosed investments
+Currently the the PowerBI file has two dashboards. One each for Sales and Profit. 
+It is an interactive dashboard for the years 2021 and 2021 
